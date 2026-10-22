@@ -35,7 +35,6 @@ An educational machine learning project focused on implementing linear regressio
 ## 🔗 Connect With Me
 
 - **GitHub:** [@prabhu5206](https://github.com/prabhu5206)
-- **LinkedIn:** [Prabhjot Singh](https://www.linkedin.com/in/prabhjotsingh/)
 
 ---
 
